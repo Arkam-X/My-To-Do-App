@@ -23,10 +23,5 @@ A full-fledged task management application built with Flask for managing daily t
 - Username: `admin`
 - Password: `1234`
 
-## Author ✍️
 
-**Arkam-X** - [@Arkam-X](https://github.com/Arkam-X)
-
----
-
-* Voila Marhaba ✨*
+** Voila Marhaba ✨**
